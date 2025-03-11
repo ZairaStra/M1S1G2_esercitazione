@@ -1,14 +1,25 @@
+#title {
+  width: 100%;
+}
+
 img {
   display: inline-block;
   width: 200px;
 }
 
-#h2 {
-  text-align: right;
+h2 {
+  text-align: end;
+}
+
+#menu {
+}
+
+.menu {
 }
 
 header {
   padding: 10px 0;
+  width: 100%;
 }
 main {
   margin: 10px;
