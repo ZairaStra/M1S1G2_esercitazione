@@ -1,0 +1,15 @@
+img {
+  display: inline-block;
+  width: 200px;
+}
+
+#h2 {
+  text-align: right;
+}
+
+header {
+  padding: 10px 0;
+}
+main {
+  margin: 10px;
+}
