@@ -24,3 +24,13 @@ header {
 main {
   margin: 10px;
 }
+
+caption {
+  margin: 7px;
+  font-weight: bold;
+}
+table {
+  margin: 20px;
+  width: 600px;
+  margin-inline: auto;
+}
